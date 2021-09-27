@@ -11,3 +11,4 @@ hello jishen hello git! master
 hello jishen hello git! hot-fix
 >>>>>>> hot-fix
 hello jishen hello git!
+121212121212
